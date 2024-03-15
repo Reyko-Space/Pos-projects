@@ -7,5 +7,9 @@ module.exports = {
 
     multiplicacao: (x, y) => {
         return x * y
+    },
+
+    divisao: (x, y) => {
+        return x / y
     }
 };
